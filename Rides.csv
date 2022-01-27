@@ -1,0 +1,502 @@
+Start time 12:00:42,Stop time,Miles,Purpose,Latitude,Longitude
+Cambridge,Disneyland,3.6,Errand/Supplies,52.2042666,0.1149085
+Cambridge,Disneyland,43.7,Customer Visit,52.2042666,0.1149085
+Cambridge,Cambridge,0.5,Errand/Supplies,52.2042666,0.1149085
+Edinburgh,Edinburgh,1.8,Temporary Site,55.953252,-3.188267
+Edinburgh,Cambridge,1.1,Meal/Entertain,55.953252,-3.188267
+Edinburgh,Edinburgh,1.7,Meal/Entertain,55.953252,-3.188267
+Edinburgh,Cambridge,21.4,Temporary Site,55.953252,-3.188267
+Legoland,Lower Garden District,1.9,Between Offices,33.1260772,-117.3115279
+Edinburgh,Disneyland,2.2,Meal/Entertain,55.953252,-3.188267
+Harlow,Disneyland,6,Customer Visit,37.6657726,-97.347764
+Harlow,Disneyland,10,Meeting,37.6657726,-97.347764
+Harlow,Disneyland,7.3,Temporary Site,37.6657726,-97.347764
+Harlow,Harlow,4.6,Errand/Supplies,37.6657726,-97.347764
+Harlow,Disneyland,8.8,Meal/Entertain,37.6657726,-97.347764
+Harlow,Edinburgh,8.1,Temporary Site,37.6657726,-97.347764
+Harlow,Disneyland,5.7,Temporary Site,37.6657726,-97.347764
+Harlow,Disneyland,5.7,Temporary Site,37.6657726,-97.347764
+Legoland,Legoland,23.1,Meeting,33.1260772,-117.3115279
+Florence,California,159.3,Meeting,43.7695604,11.2558136
+Chessington,Chessington,1.9,Errand/Supplies,51.363583,-0.296254
+Lake Wellingborough,Whitebridge,7.6,Temporary Site,52.2872152,-0.6856097
+Mcvan,Capitol One,14.5,Errand/Supplies,41.918811,-71.3213589
+East Elmhurst,New York,8.1,Meeting,40.7737505,-73.8713099
+East Harlem,Texas,6.4,Temporary Site,40.7957399,-73.9389213
+Long Island City,Glasgow,13.9,Meeting,40.744679,-73.9485424
+Midtown East,Midtown,1.9,Meal/Entertain,40.7571432,-73.9718815
+Flatiron District,Midtown,1.6,Errand/Supplies,40.740083,-73.9903489
+Hell's Kitchen,Midtown,2,Errand/Supplies,44.9746062,-93.2725981
+Lower Manhattan,Hudson Square,1.8,Errand/Supplies,40.7208595,-74.0006686
+Soho,Tribeca,0.5,Errand/Supplies,40.7245908,-74.0019174
+New York,Queens,10.8,Meeting,40.7127753,-74.0059728
+New York,Queens County,15.1,Meeting,40.7127753,-74.0059728
+New York,Long Island City,13,Meeting,40.7127753,-74.0059728
+New York,Glasgow,16.3,Meeting,40.7127753,-74.0059728
+Hudson Square,Lower Manhattan,4,Meal/Entertain,40.7266108,-74.0074328
+Hudson Square,Hell's Kitchen,2.4,Customer Visit,40.7266108,-74.0074328
+Financial District,Kips Bay,4.8,Errand/Supplies,40.7077143,-74.0082787
+Tribeca,Financial District,0.9,Errand/Supplies,40.7162692,-74.0086323
+Newark,Menlo Park,9.3,Customer Visit,40.735657,-74.1723667
+Newark,San Francisco,25.6,Meeting,40.735657,-74.1723667
+Old City,Parkway Museums,2.9,Meal/Entertain,39.9500455,-75.1438117
+Old City,Hog Island,11.2,Meeting,39.9500455,-75.1438117
+Morrisville,California,8,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,9.7,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,6.1,Meeting,42.8905387,-75.6413978
+Morrisville,California,6.1,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,6.1,Temporary Site,42.8905387,-75.6413978
+Morrisville,Raleigh,17,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,11.5,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,8.1,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,2,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,3.9,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,6.1,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,6.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,6.1,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,4.2,Between Offices,42.8905387,-75.6413978
+Morrisville,California,5.5,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,7.9,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,8.1,Meeting,42.8905387,-75.6413978
+Morrisville,California,3.1,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,Raleigh,7.6,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,8.2,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,11.3,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,9.6,Meeting,42.8905387,-75.6413978
+Morrisville,California,3.1,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,4,Between Offices,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,4.6,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,4.3,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,3.1,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,8.2,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,3.1,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,6.3,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,3.1,Customer Visit,42.8905387,-75.6413978
+Morrisville,Morrisville,11.8,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,6.1,Moving,42.8905387,-75.6413978
+Morrisville,California,3.8,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,3.2,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,2.5,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,3.1,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,3.1,Customer Visit,42.8905387,-75.6413978
+Morrisville,California,5.2,Meal/Entertain,42.8905387,-75.6413978
+Morrisville,California,3.4,Errand/Supplies,42.8905387,-75.6413978
+Morrisville,California,3.5,Customer Visit,42.8905387,-75.6413978
+Topton,Hayesville,40.7,Meeting,40.5034284,-75.7013027
+Maryland,Houston,35.1,Customer Visit,39.0457549,-76.6412712
+Glasgow,New York,16.5,Customer Visit,55.864237,-4.251806
+Glasgow,New York,22.3,Errand/Supplies,55.864237,-4.251806
+Rose Hill,Soho,2.5,Meal/Entertain,34.8282235,-78.0230416
+Raleigh,California,40.2,Customer Visit,35.7795897,-78.6381787
+Raleigh,Raleigh,2.7,Customer Visit,35.7795897,-78.6381787
+Raleigh,California,12.9,Customer Visit,35.7795897,-78.6381787
+Raleigh,California,15.7,Meeting,35.7795897,-78.6381787
+Raleigh,California,9,Errand/Supplies,35.7795897,-78.6381787
+Raleigh,Morrisville,13.5,Temporary Site,35.7795897,-78.6381787
+Raleigh,California,18,Meeting,35.7795897,-78.6381787
+Raleigh,California,17.3,Meeting,35.7795897,-78.6381787
+Raleigh,Raleigh,4.9,Meal/Entertain,35.7795897,-78.6381787
+Raleigh,California,13.5,Meeting,35.7795897,-78.6381787
+Raleigh,California,11.9,Between Offices,35.7795897,-78.6381787
+Raleigh,California,18.6,Meeting,35.7795897,-78.6381787
+Raleigh,Morrisville,15.9,Meeting,35.7795897,-78.6381787
+Raleigh,California,15.2,Meeting,35.7795897,-78.6381787
+Raleigh,California,22.5,Meeting,35.7795897,-78.6381787
+Raleigh,California,32.8,Customer Visit,35.7795897,-78.6381787
+Raleigh,California,14,Meeting,35.7795897,-78.6381787
+Raleigh,California,16.6,Meal/Entertain,35.7795897,-78.6381787
+Raleigh,Morrisville,9,Errand/Supplies,35.7795897,-78.6381787
+Raleigh,California,11.3,Meeting,35.7795897,-78.6381787
+Fayetteville Street,Umstead,15.1,Meeting,35.7737065,-78.6394508
+Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,35.7737065,-78.6394508
+Fayetteville Street,Meredith Townes,5.9,Customer Visit,35.7737065,-78.6394508
+Meredith Townes,Leesville Hollow,14.7,Meeting,35.8224407,-78.6902175
+Meredith Townes,Leesville Hollow,9.4,Meeting,35.8224407,-78.6902175
+Meredith Townes,Harden Place,1.4,Errand/Supplies,35.8224407,-78.6902175
+Wayne Ridge,Whitebridge,8,Meeting,35.7637632,-78.7311161
+Wayne Ridge,Whitebridge,8,Meal/Entertain,35.7637632,-78.7311161
+Wayne Ridge,Whitebridge,8,Meal/Entertain,35.7637632,-78.7311161
+Waverly Place,Whitebridge,6.8,Meeting,35.738451,-78.777322
+Waverly Place,Whitebridge,7.6,Meal/Entertain,35.738451,-78.777322
+Waverly Place,Macgregor Downs,2.1,Meal/Entertain,35.738451,-78.777322
+Krendle Woods,Whitebridge,6.1,Meeting,35.7857477,-78.7846318
+Burtrose,Whitebridge,4.8,Between Offices,35.7737626,-78.7852836
+Savon Height,Whitebridge,3.6,Errand/Supplies,35.7726514,-78.8011173
+Savon Height,Whitebridge,9.6,Errand/Supplies,35.7726514,-78.8011173
+Edgehill Farms,Whitebridge,3.2,Meal/Entertain,35.7834843,-78.8069507
+Edgehill Farms,Whitebridge,2.7,Meal/Entertain,35.7834843,-78.8069507
+Edgehill Farms,Whitebridge,2.7,Customer Visit,35.7834843,-78.8069507
+Edgehill Farms,Whitebridge,2.7,Customer Visit,35.7834843,-78.8069507
+Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,35.7584686,-78.822337
+Kilarney Woods,Whitebridge,4.7,Errand/Supplies,35.7584686,-78.822337
+Holly Springs,California,13.7,Temporary Site,35.6512655,-78.8336218
+Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,35.8614516,-78.8506505
+Durham,California,10.4,Meal/Entertain,35.9940329,-78.898619
+Durham,California,10.1,Meeting,35.9940329,-78.898619
+Durham,California,10.4,Meeting,35.9940329,-78.898619
+Durham,Morrisville,2.6,Temporary Site,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Customer Visit,35.9940329,-78.898619
+Durham,California,10.9,Meeting,35.9940329,-78.898619
+Durham,California,8.7,Meal/Entertain,35.9940329,-78.898619
+Durham,California,10,Meeting,35.9940329,-78.898619
+Durham,California,10,Meeting,35.9940329,-78.898619
+Durham,California,18.2,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,9.9,Meeting,35.9940329,-78.898619
+Durham,California,10.5,Meeting,35.9940329,-78.898619
+Durham,California,11.1,Meeting,35.9940329,-78.898619
+Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,35.8227393,-78.9129415
+Chapel Hill,California,23.3,Customer Visit,35.9131996,-79.0558445
+Chapel Hill,Morrisville,17,Meeting,35.9131996,-79.0558445
+West Palm Beach,West Palm Beach,4.3,Meal/Entertain,26.7153424,-80.0533746
+West Palm Beach,Palm Beach,7.1,Meeting,26.7153424,-80.0533746
+Winston Salem,Asheville,133.6,Meeting,36.0998596,-80.244216
+Fort Pierce,Fort Pierce,5.1,Meal/Entertain,27.4467056,-80.3256056
+Fort Pierce,Fort Pierce,4.8,Errand/Supplies,27.4467056,-80.3256056
+Fort Pierce,Fort Pierce,4.7,Meeting,27.4467056,-80.3256056
+Fort Pierce,West Palm Beach,63.7,Customer Visit,27.4467056,-80.3256056
+Stonewater,Lexington Park at Amberly,3,Meeting,35.352985,-80.9618501
+Daytona Beach,Jacksonville,80.5,Customer Visit,29.2108147,-81.0228331
+Orlando,Kissimmee,6.6,Meal/Entertain,28.5383832,-81.3789269
+Orlando,Kissimmee,28.8,Meal/Entertain,28.5383832,-81.3789269
+Orlando,Kissimmee,16.4,Meal/Entertain,28.5383832,-81.3789269
+Orlando,Kissimmee,20.3,Meeting,28.5383832,-81.3789269
+Kissimmee,Orlando,6.1,Customer Visit,28.2919557,-81.407571
+Kissimmee,Orlando,16.1,Temporary Site,28.2919557,-81.407571
+Kissimmee,Kissimmee,11,Meeting,28.2919557,-81.407571
+Kissimmee,Orlando,15.5,Customer Visit,28.2919557,-81.407571
+Kissimmee,Daytona Beach,77.3,Customer Visit,28.2919557,-81.407571
+Florida,Congress Ave District,2,Meal/Entertain,27.6648274,-81.5157535
+Florida,Convention Center District,5.7,Meal/Entertain,27.6648274,-81.5157535
+Florida,North Austin,10.5,Meal/Entertain,27.6648274,-81.5157535
+Florida,South Congress,2,Errand/Supplies,27.6648274,-81.5157535
+Florida,Convention Center District,2,Meal/Entertain,27.6648274,-81.5157535
+Florida,Congress Ave District,1.7,Meal/Entertain,27.6648274,-81.5157535
+Lake Reams,Lake Reams,2.1,Errand/Supplies,28.4395614,-81.5719819
+Jacksonville,Kissimmee,201,Meeting,30.3321838,-81.655651
+Jacksonville,Ridgeland,174.2,Customer Visit,30.3321838,-81.655651
+Boone,California,180.2,Commute,36.216795,-81.6745517
+Banner Elk,Banner Elk,4.4,Errand/Supplies,36.1631817,-81.8715019
+Banner Elk,Boone,15.1,Charity ($),36.1631817,-81.8715019
+Heritage Pines,Whitebridge,3.2,Errand/Supplies,28.1453132,-82.3057631
+Asheville,Topton,91.8,Meeting,35.5950581,-82.5514869
+Huntington Woods,Weston,1.7,Errand/Supplies,42.4805913,-83.1668713
+Westpark Place,Whitebridge,2.3,Errand/Supplies,41.6831878,-83.6269032
+Westpark Place,Whitebridge,1.8,Errand/Supplies,41.6831878,-83.6269032
+Westpark Place,Whitebridge,3.9,Meal/Entertain,41.6831878,-83.6269032
+Westpark Place,Whitebridge,1.9,Errand/Supplies,41.6831878,-83.6269032
+Westpark Place,Whitebridge,2.2,Meal/Entertain,41.6831878,-83.6269032
+Georgian Acres,Florida,6.2,Meal/Entertain,34.1860313,-83.804779
+Farmington Woods,Whitebridge,4.7,Meal/Entertain,36.2463877,-86.3266588
+Whitebridge,Hazelwood,2,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Westpark Place,1.9,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Macgregor Downs,9,Meeting,36.1379592,-86.8596744
+Whitebridge,Edgehill Farms,4.3,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Tanglewood,6,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Waverly Place,7.7,Meeting,36.1379592,-86.8596744
+Whitebridge,Edgehill Farms,2.8,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Waverly Place,7.2,Between Offices,36.1379592,-86.8596744
+Whitebridge,Wayne Ridge,7.9,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Edgehill Farms,2.8,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Tanglewood,6,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Burtrose,4.9,Between Offices,36.1379592,-86.8596744
+Whitebridge,Waverly Place,7.7,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Tanglewood,6.2,Between Offices,36.1379592,-86.8596744
+Whitebridge,Preston,2.8,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Savon Height,3.6,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Kildaire Farms,4.5,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Whitebridge,0.6,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Stonewater,6.4,Customer Visit,36.1379592,-86.8596744
+Whitebridge,Chessington,3.9,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Parkway,2.1,Meeting,36.1379592,-86.8596744
+Whitebridge,Whitebridge,4.2,Meal/Entertain,36.1379592,-86.8596744
+Elmhurst,New York,7.5,Meeting,41.8994744,-87.9403418
+Chalmette,Oregon,1.1,Errand/Supplies,29.942783,-89.9635162
+Lower Garden District,Lakeview,6.4,Customer Visit,29.9348549,-90.0696586
+New Orleans,Chalmette,11.8,Between Offices,29.9510658,-90.0715323
+New Orleans,Kenner,12.6,Meeting,29.9510658,-90.0715323
+Ridgeland,Florence,144,Meeting,32.4284761,-90.1323087
+Metairie,New Orleans,15.5,Meeting,29.9840922,-90.1528519
+Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,30.0207582,-90.19452
+Kenner,New Orleans,12.4,Between Offices,29.9940924,-90.2417434
+Whitebridge,Williamsburg Manor,8.3,Meeting,36.1379592,-86.8596744
+Whitebridge,Heritage Pines,3.1,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Wayne Ridge,8,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Northwoods,5.2,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Wayne Ridge,7.8,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Wayne Ridge,8.2,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Westpark Place,2.1,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Westpark Place,2.2,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Savon Height,7.8,Customer Visit,36.1379592,-86.8596744
+Whitebridge,Hazelwood,3,Errand/Supplies,36.1379592,-86.8596744
+Whitebridge,Waverly Place,7.1,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Summerwinds,8.8,Meeting,36.1379592,-86.8596744
+Whitebridge,Savon Height,3.6,Meal/Entertain,36.1379592,-86.8596744
+Whitebridge,Parkway,2.1,Meeting,36.1379592,-86.8596744
+Parkway,Whitebridge,3.1,Errand/Supplies,38.6230905,-90.5342016
+Parkway,Whitebridge,2.8,Errand/Supplies,38.6230905,-90.5342016
+Parkway,Whitebridge,8.7,Errand/Supplies,37.2749404,-95.4722174
+Northwoods,Whitebridge,3.9,Meal/Entertain,35.7949989,-78.7897312
+Northwoods,Preston,3.3,Moving,36.1603097,-96.0864858
+Eagan Park,Jamestown Court,3.9,Errand/Supplies,44.811291,-93.1500185
+Apex,California,5.5,Meal/Entertain,36.317295,-94.187883
+Apex,California,5.7,Customer Visit,36.317295,-94.187883
+Apex,California,5.7,Customer Visit,36.317295,-94.187883
+Apex,California,5.6,Meeting,36.317295,-94.187883
+Apex,California,7.2,Meal/Entertain,36.317295,-94.187883
+Apex,California,5.5,Meal/Entertain,36.317295,-94.187883
+Apex,California,5.4,Customer Visit,36.317295,-94.187883
+Tanglewood,Whitebridge,5.8,Meal/Entertain,36.3718716,-94.1927828
+Tanglewood,Whitebridge,6.5,Meal/Entertain,36.3718716,-94.1927828
+Tanglewood,Parkway,7.5,Meeting,36.3718716,-94.1927828
+Hazelwood,Whitebridge,2.3,Errand/Supplies,48.5884601,-89.2936778
+Hazelwood,Whitebridge,6.6,Customer Visit,38.915109,-94.6276027
+Hazelwood,Whitebridge,2.4,Errand/Supplies,48.5884601,-89.2936778
+Hazelwood,Weston,0.9,Errand/Supplies,48.5884601,-89.2936778
+Port Bolivar,Port Bolivar,2.1,Errand/Supplies,29.3807901,-94.7643623
+Port Bolivar,Galveston,7.5,Meeting,29.3807901,-94.7643623
+Galveston,Port Bolivar,3.1,Meal/Entertain,29.3013479,-94.7976958
+Galveston,Houston,57,Customer Visit,29.3013479,-94.7976958
+Weston,Weston,3.8,Meal/Entertain,39.4111092,-94.9016298
+Houston,Houston,21.9,Customer Visit,29.7604267,-95.3698028
+Houston,Maryland,12,Customer Visit,29.7604267,-95.3698028
+Houston,Galveston,36.5,Meal/Entertain,29.7604267,-95.3698028
+West University,Congress Ave District,2.1,Meal/Entertain,29.7180075,-95.4338292
+Washington Avenue,Midtown,6.2,Meeting,29.7770697,-95.4354935
+Gulfton,Downtown,11.8,Meeting,29.7164567,-95.4805999
+Briar Meadow,Midtown,9.6,Customer Visit,29.7374609,-95.5142195
+Sharpstown,Sharpstown,1,Errand/Supplies,29.7051747,-95.5212898
+Sharpstown,Midtown,9.2,Customer Visit,29.7051747,-95.5212898
+Sharpstown,Midtown,25.6,Meal/Entertain,29.7051747,-95.5212898
+Downtown,Gulfton,11.2,Meeting,37.0357092,-95.6155258
+Downtown,Florida,2.8,Meal/Entertain,37.0357092,-95.6155258
+Downtown,Midtown,0.9,Meal/Entertain,37.0357092,-95.6155258
+Downtown,Bay Farm Island,9.3,Errand/Supplies,37.0357092,-95.6155258
+Medical Centre,Tudor City,0.7,Errand/Supplies,37.0358272,-95.6276367
+Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,36.0499516,-95.7902623
+Capitol One,University District,4.5,Meal/Entertain,36.1320369,-95.8169253
+Capitol One,Mcvan,14.4,Meeting,36.1320369,-95.8169253
+Eastgate,Walnut Terrace,5.7,Meal/Entertain,36.1322428,-95.8191147
+Renaissance,Agnew,2.8,Meeting,36.0650536,-95.8576868
+Parkwood,Parkwood,1.2,Errand/Supplies,31.3410169,-94.746994
+Meredith,Cedar Hill,7.5,Customer Visit,36.099369,-95.933702
+Midtown,East Harlem,6.2,Meeting,41.2574248,-95.9599321
+Midtown,Midtown East,1.7,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Hudson Square,1.9,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Midtown West,2,Meeting,36.3678095,-96.0016372
+Midtown,Alief,15.5,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Midtown,1.1,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Midtown,1.1,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Sharpstown,13.2,Meeting,36.3678095,-96.0016372
+Midtown,Sharpstown,9.4,Meal/Entertain,41.2574248,-95.9599321
+Midtown,Washington Avenue,5.9,Meeting,36.3678095,-96.0016372
+Midtown,Greater Greenspoint,23,Meal/Entertain,41.2574248,-95.9599321
+Preston,Westpark Place,2.7,Errand/Supplies,35.711491,-95.9916603
+Preston,Whitebridge,4.7,Moving,35.711491,-95.9916603
+Preston,Whitebridge,1.7,Errand/Supplies,35.711491,-95.9916603
+Latta,Jacksonville,310.3,Customer Visit,34.7523574,-96.7060724
+Fairmont,Meredith Townes,3.4,Customer Visit,32.785715,-96.801797
+Ingleside,Potrero Flats,5.5,Meeting,27.8778026,-97.211657
+North Austin,Coxville,7.2,Meal/Entertain,30.3923316,-97.708224
+East Austin,West University,12.8,Meeting,30.2654547,-97.7090635
+Austin,Las Vegas,136,Customer Visit,30.267153,-97.7430608
+South Congress,North Austin,8.4,Meal/Entertain,30.2049701,-97.7748074
+Storyville,Faubourg Marigny,1.5,Meal/Entertain,29.9675808,-98.9084258
+Summerwinds,Whitebridge,8.7,Temporary Site,33.6484776,-111.9783627
+Las Vegas,Houston,30.2,Meeting,36.1699412,-115.1398296
+London,Edinburgh,14.7,Temporary Site,51.5072178,-0.1275862
+London,Disneyland,23.5,Temporary Site,51.5072178,-0.1275862
+London,Harlow,12.7,Temporary Site,51.5072178,-0.1275862
+London,Harlow,5.2,Customer Visit,51.5072178,-0.1275862
+London,Disneyland,18.3,Meeting,51.5072178,-0.1275862
+London,Disneyland,11.2,Meeting,51.5072178,-0.1275862
+London,Harlow,7.6,Meeting,51.5072178,-0.1275862
+London,Disneyland,3.2,Errand/Supplies,51.5072178,-0.1275862
+London,Disneyland,7.7,Errand/Supplies,51.5072178,-0.1275862
+London,Harlow,2.4,Errand/Supplies,51.5072178,-0.1275862
+London,Disneyland,8.3,Temporary Site,51.5072178,-0.1275862
+London,Disneyland,22.7,Temporary Site,51.5072178,-0.1275862
+London,Harlow,13,Temporary Site,51.5072178,-0.1275862
+Disneyland,Legoland,20,Meeting,33.8120918,-117.9189742
+Disneyland,Disneyland,7.6,Airport/Travel,33.8120918,-117.9189742
+Disneyland,Disneyland,7.7,Temporary Site,33.8120918,-117.9189742
+Disneyland,Legoland,17.1,Meeting,33.8120918,-117.9189742
+Disneyland,Legoland,17,Meeting,33.8120918,-117.9189742
+Disneyland,Morrisville,3.5,Meal/Entertain,33.8120918,-117.9189742
+Wales,California,0.8,Meeting,52.1306607,-3.7837117
+Wales,Morrisville,8.3,Meeting,52.1306607,-3.7837117
+Wales,Durham,10.4,Meal/Entertain,52.1306607,-3.7837117
+Wales,California,4.8,Meal/Entertain,52.1306607,-3.7837117
+Wales,Raleigh,17.1,Meeting,52.1306607,-3.7837117
+Wales,California,1.6,Errand/Supplies,52.1306607,-3.7837117
+San Jose,California,2.4,Meal/Entertain,37.3382082,-121.8863286
+San Jose,California,1,Meal/Entertain,37.3382082,-121.8863286
+San Jose,California,1.4,Errand/Supplies,37.3382082,-121.8863286
+San Jose,California,0.5,Errand/Supplies,37.3382082,-121.8863286
+San Jose,California,1.8,Meeting,37.3382082,-121.8863286
+San Jose,Raleigh,18.7,Customer Visit,37.3382082,-121.8863286
+San Jose,Raleigh,19,Temporary Site,37.3382082,-121.8863286
+San Jose,California,4.6,Customer Visit,37.3382082,-121.8863286
+San Jose,California,5.2,Meeting,37.3382082,-121.8863286
+San Jose,Durham,10.4,Meeting,37.3382082,-121.8863286
+San Jose,Apex,5.8,Errand/Supplies,37.3382082,-121.8863286
+San Jose,Apex,5.7,Errand/Supplies,37.3382082,-121.8863286
+San Jose,Chapel Hill,19.4,Customer Visit,37.3382082,-121.8863286
+San Jose,California,6,Errand/Supplies,37.3382082,-121.8863286
+San Jose,California,1.6,Errand/Supplies,37.3382082,-121.8863286
+Nevada,Morrisville,5.2,Errand/Supplies,38.8026097,-116.419389
+Nevada,California,1.6,Meal/Entertain,38.8026097,-116.419389
+Nevada,California,1.1,Meal/Entertain,38.8026097,-116.419389
+Nevada,California,1.6,Meal/Entertain,38.8026097,-116.419389
+Nevada,California,7.7,Meeting,38.8026097,-116.419389
+Nevada,Durham,10.4,Meeting,38.8026097,-116.419389
+Nevada,Raleigh,11.4,Between Offices,38.8026097,-116.419389
+Nevada,Apex,5.6,Errand/Supplies,38.8026097,-116.419389
+Nevada,Morrisville,6.1,Temporary Site,38.8026097,-116.419389
+Nevada,Raleigh,17.3,Meal/Entertain,38.8026097,-116.419389
+Nevada,Durham,8.5,Temporary Site,38.8026097,-116.419389
+Nevada,Morrisville,8.4,Meeting,38.8026097,-116.419389
+Nevada,Morrisville,8.9,Meeting,38.8026097,-116.419389
+Nevada,Durham,10.6,Meeting,38.8026097,-116.419389
+Nevada,Apex,3.8,Meeting,38.8026097,-116.419389
+Nevada,Raleigh,7.6,Customer Visit,38.8026097,-116.419389
+Nevada,Durham,9.9,Meeting,38.8026097,-116.419389
+Nevada,Durham,10.4,Meeting,38.8026097,-116.419389
+Nevada,Raleigh,15.7,Customer Visit,38.8026097,-116.419389
+Nevada,Morrisville,1.9,Temporary Site,38.8026097,-116.419389
+Nevada,Morrisville,6.5,Meal/Entertain,38.8026097,-116.419389
+Nevada,Morrisville,7.8,Meal/Entertain,38.8026097,-116.419389
+Nevada,Raleigh,12.4,Customer Visit,38.8026097,-116.419389
+Wales,Morrisville,8.4,Meeting,52.1306607,-3.7837117
+Wales,Latta,144,Customer Visit,52.1306607,-3.7837117
+Wales,Morrisville,6.1,Meal/Entertain,52.1306607,-3.7837117
+Wales,Durham,10.5,Meeting,52.1306607,-3.7837117
+Wales,Raleigh,19.1,Meeting,52.1306607,-3.7837117
+Wales,Raleigh,8.9,Meeting,52.1306607,-3.7837117
+Wales,Holly Springs,15.3,Temporary Site,52.1306607,-3.7837117
+Wales,Raleigh,11.9,Temporary Site,52.1306607,-3.7837117
+Wales,Morrisville,6,Errand/Supplies,52.1306607,-3.7837117
+Wales,Raleigh,13.6,Meeting,52.1306607,-3.7837117
+Wales,Durham,10.4,Meeting,52.1306607,-3.7837117
+Wales,Morrisville,3.1,Errand/Supplies,52.1306607,-3.7837117
+Wales,Raleigh,12.4,Customer Visit,52.1306607,-3.7837117
+Wales,Durham,9.9,Meeting,52.1306607,-3.7837117
+Wales,Durham,14.2,Customer Visit,52.1306607,-3.7837117
+Chicago,Morrisville,8.7,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Morrisville,8.4,Customer Visit,41.8781136,-87.6297982
+Chicago,Morrisville,3.1,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Morrisville,8.4,Customer Visit,41.8781136,-87.6297982
+Chicago,Morrisville,3,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Morrisville,6.1,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Raleigh,14.9,Meeting,41.8781136,-87.6297982
+Chicago,Morrisville,6.7,Customer Visit,41.8781136,-87.6297982
+Chicago,Durham,10.4,Meeting,41.8781136,-87.6297982
+Chicago,Morrisville,6,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Morrisville,7.8,Customer Visit,41.8781136,-87.6297982
+Chicago,Durham,9.9,Meeting,41.8781136,-87.6297982
+Chicago,Apex,5.7,Meal/Entertain,41.8781136,-87.6297982
+Chicago,Durham,10.4,Meeting,41.8781136,-87.6297982
+Cardiff,Durham,10.4,Meeting,51.481581,-3.17909
+Cardiff,Morrisville,8.7,Meal/Entertain,51.481581,-3.17909
+Cardiff,Durham,10.4,Meeting,51.481581,-3.17909
+Cardiff,Morrisville,3.7,Errand/Supplies,51.481581,-3.17909
+Cardiff,Durham,10.4,Meeting,51.481581,-3.17909
+Cardiff,Morrisville,2.5,Meal/Entertain,51.481581,-3.17909
+Cardiff,Morrisville,8.4,Meal/Entertain,51.481581,-3.17909
+Cardiff,Raleigh,8.6,Errand/Supplies,51.481581,-3.17909
+Cardiff,Morrisville,8.4,Temporary Site,51.481581,-3.17909
+Cardiff,Durham,10.4,Meeting,51.481581,-3.17909
+Cardiff,Durham,10.4,Meeting,51.481581,-3.17909
+Cardiff,Durham,9.9,Meeting,51.481581,-3.17909
+Cardiff,Raleigh,13.3,Meeting,51.481581,-3.17909
+Cardiff,Durham,10.5,Meeting,51.481581,-3.17909
+Cardiff,Durham,10.1,Meeting,51.481581,-3.17909
+Cardiff,Morrisville,3.1,Errand/Supplies,51.481581,-3.17909
+Bristol,Durham,9.9,Meeting,51.454513,-2.58791
+Bristol,Durham,11.8,Meeting,51.454513,-2.58791
+Bristol,Durham,9.9,Meeting,51.454513,-2.58791
+Bristol,Morrisville,3.3,Meal/Entertain,51.454513,-2.58791
+Bristol,Morrisville,7.9,Temporary Site,51.454513,-2.58791
+Bristol,Morrisville,4.1,Moving,51.454513,-2.58791
+Bristol,Apex,7.2,Meeting,51.454513,-2.58791
+Bristol,Morrisville,3.3,Meal/Entertain,51.454513,-2.58791
+Bristol,Morrisville,6.1,Meal/Entertain,51.454513,-2.58791
+Bristol,Durham,10.4,Meeting,51.454513,-2.58791
+Bristol,Morrisville,2.5,Meal/Entertain,51.454513,-2.58791
+Bristol,Morrisville,8.4,Meeting,51.454513,-2.58791
+Bristol,Morrisville,8.4,Meeting,51.454513,-2.58791
+Bristol,Durham,10.5,Meeting,51.454513,-2.58791
+Bristol,Morrisville,7.9,Temporary Site,51.454513,-2.58791
+Bristol,Morrisville,3.1,Meal/Entertain,51.454513,-2.58791
+Bristol,Morrisville,8.4,Meeting,51.454513,-2.58791
+Bristol,Durham,10.4,Meeting,51.454513,-2.58791
+California,Winston Salem,107,Meeting,36.778261,-119.4179324
+California,Morrisville,8.5,Meeting,36.778261,-119.4179324
+California,Morrisville,3.1,Meal/Entertain,36.778261,-119.4179324
+California,Morrisville,7.9,Temporary Site,36.778261,-119.4179324
+California,Morrisville,3.1,Meal/Entertain,36.778261,-119.4179324
+California,Durham,10.3,Meeting,36.778261,-119.4179324
+California,Apex,5.4,Errand/Supplies,36.778261,-119.4179324
+California,Disneyland,6.7,Errand/Supplies,36.778261,-119.4179324
+California,Morrisville,3,Meal/Entertain,36.778261,-119.4179324
+California,Durham,10.3,Meeting,36.778261,-119.4179324
+California,Apex,5.1,Meeting,36.778261,-119.4179324
+Oregon,Metairie,17,Meal/Entertain,43.8041334,-120.5542012
+Santa Clara,Berkeley,43.9,Customer Visit,37.3541079,-121.9552356
+Sunnyvale,Newark,17.6,Customer Visit,37.36883,-122.0363496
+Mountain View,Berkeley,43.6,Customer Visit,37.3860517,-122.0838511
+Redmond,Bellevue,2.9,Errand/Supplies,47.6739881,-122.121512
+Palo Alto,Sunnyvale,9.8,Customer Visit,37.4418834,-122.1430195
+Menlo Park,Newark,7.9,Customer Visit,37.4529598,-122.1817252
+Menlo Park,Berkeley,36.6,Customer Visit,37.4529598,-122.1817252
+Bellevue,Seattle,12.9,Meeting,47.6101497,-122.2015159
+Oakland,Emeryville,13.2,Meeting,37.8043514,-122.2711639
+Oakland,Disneyland,5.2,Customer Visit,37.8043514,-122.2711639
+Oakland,Berkeley,6,Meeting,37.8043514,-122.2711639
+Oakland,San Francisco,9.7,Temporary Site,37.8043514,-122.2711639
+Berkeley,Oakland,5.1,Meal/Entertain,37.8715226,-122.273042
+Berkeley,San Francisco,11.8,Between Offices,37.8715226,-122.273042
+Berkeley,San Francisco,12.2,Between Offices,37.8715226,-122.273042
+Berkeley,San Francisco,12.6,Temporary Site,37.8715226,-122.273042
+Berkeley,Menlo Park,45.9,Customer Visit,37.8715226,-122.273042
+Berkeley,Mountain View,44.6,Customer Visit,37.8715226,-122.273042
+Berkeley,El Cerrito,2.3,Temporary Site,37.8715226,-122.273042
+Berkeley,Oakland,16.3,Customer Visit,37.8715226,-122.273042
+Emeryville,Berkeley,3.9,Meal/Entertain,37.8395028,-122.2892278
+Emeryville,Oakland,5.1,Meeting,37.8395028,-122.2892278
+Emeryville,Berkeley,3.7,Errand/Supplies,37.8395028,-122.2892278
+Emeryville,Berkeley,3.7,Errand/Supplies,37.8395028,-122.2892278
+West Berkeley,South,5.9,Meeting,37.8743703,-122.2985808
+West Berkeley,Southside,4,Meeting,37.8743703,-122.2985808
+El Cerrito,Berkeley,3.1,Meal/Entertain,37.9161326,-122.310765
+University District,Capitol One,5,Meal/Entertain,47.6627771,-122.3138767
+Seattle,Redmond,14.2,Meal/Entertain,47.6062095,-122.3320708
+San Francisco,Palo Alto,20.5,Between Offices,37.7749295,-122.4194155
+San Francisco,Emeryville,11.6,Meeting,37.7749295,-122.4194155
+San Francisco,Berkeley,13.2,Between Offices,37.7749295,-122.4194155
+San Francisco,Berkeley,11.3,Meeting,37.7749295,-122.4194155
+San Francisco,Oakland,12.7,Customer Visit,37.7749295,-122.4194155
+San Francisco,Oakland,9.9,Temporary Site,37.7749295,-122.4194155
+San Francisco,Berkeley,11.8,Temporary Site,37.7749295,-122.4194155
+Utah,Berkeley,2.3,Temporary Site,36.021,-112.0937
