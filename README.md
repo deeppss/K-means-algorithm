@@ -1,4 +1,4 @@
-# K-means-algorithm
+# K-means clustering algorithm
 
 Drivers for Uber, Lyft, and other Transportation Network Companies need
 to find the most profitable areas to drive and the most profitable times to
